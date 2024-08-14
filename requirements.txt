@@ -1,0 +1,15 @@
+crewai
+crewai_tools
+load_dotenv
+pdf2image
+pytesseract
+langchain-google-genai
+# langchain-core
+langchain-community 
+langchain-openai
+PyPDF2
+streamlit
+faiss-cpu
+fastapi
+langchain-google-vertexai 
+langchain-core
